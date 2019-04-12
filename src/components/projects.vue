@@ -6,14 +6,12 @@
         img-src="https://firebasestorage.googleapis.com/v0/b/lewishamilton-2aac2.appspot.com/o/gold_rush_logo.PNG?alt=media&token=f88bd6f5-a5fb-415d-b2a8-47b4a5b6b0ae"
         img-alt="Image"
         img-top
-        tag="article"
-        style="max-width: 20rem;"
-        class="mb-2"
       >
         <b-card-text>I Created the Gold Rush 5K website for the 2019 race.</b-card-text>
-
-        <b-button href="#" target="blank" variant="info">Learn More</b-button>
-        <b-button href="http://www.goldrush5k.com/" target="blank" variant="dark">Check it out</b-button>
+        <div slot="footer">
+          <b-button href="#" target="blank" variant="info">Learn More</b-button>
+          <b-button href="http://www.goldrush5k.com/" target="blank" variant="dark">Check it out</b-button>
+        </div>
       </b-card>
 
       <b-card
@@ -21,14 +19,12 @@
         img-src="https://picsum.photos/600/300/?image=25"
         img-alt="Image"
         img-top
-        tag="article"
-        style="max-width: 20rem;"
-        class="mb-2"
       >
         <b-card-text>I Made the website you are currently using.</b-card-text>
-
-        <b-button href="#" target="blank" variant="info">Learn More</b-button>
-        <b-button href="#" target="blank" variant="dark">Check it out</b-button>
+        <div slot="footer">
+          <b-button href="#" target="blank" variant="info">Learn More</b-button>
+          <b-button href="#" target="blank" variant="dark">Check it out</b-button>
+        </div>
       </b-card>
 
       <b-card
