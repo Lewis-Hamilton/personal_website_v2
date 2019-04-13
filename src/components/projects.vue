@@ -40,15 +40,24 @@
       </b-card>
 
       <b-card
-        title="Games"
+        title="Typing Game"
         img-src="https://picsum.photos/300/300/?image=41"
         img-alt="Image"
         img-top
       >
-        <b-card-text>
-          This is a wider card with supporting text below as a natural lead-in to additional content.
-          This card has even longer content than the first to show that equal height action.
-        </b-card-text>
+        <b-card-text>This is a demo game I made in unity just to try out the concept. I plan to make a new version that is better.</b-card-text>
+        <div slot="footer">
+          <small class="text-muted">Last updated 3 mins ago</small>
+        </div>
+      </b-card>
+
+      <b-card
+        title="JS Snake"
+        img-src="https://picsum.photos/300/300/?image=41"
+        img-alt="Image"
+        img-top
+      >
+        <b-card-text>I made a simple snake game in JavaScript. I want to improve on this game and make it look better.</b-card-text>
         <div slot="footer">
           <small class="text-muted">Last updated 3 mins ago</small>
         </div>
@@ -60,10 +69,7 @@
         img-alt="Image"
         img-top
       >
-        <b-card-text>
-          This is a wider card with supporting text below as a natural lead-in to additional content.
-          This card has even longer content than the first to show that equal height action.
-        </b-card-text>
+        <b-card-text>I bought an old HP server. I want to host a plex server on it and I a have a few other ideas for later.</b-card-text>
         <div slot="footer">
           <small class="text-muted">Last updated 3 mins ago</small>
         </div>
@@ -75,10 +81,7 @@
         img-alt="Image"
         img-top
       >
-        <b-card-text>
-          This is a wider card with supporting text below as a natural lead-in to additional content.
-          This card has even longer content than the first to show that equal height action.
-        </b-card-text>
+        <b-card-text>I got an old monitor for free from work and the screen doesn't work. It turns off at random times so I am trying to fix it.</b-card-text>
         <div slot="footer">
           <small class="text-muted">Last updated 3 mins ago</small>
         </div>
