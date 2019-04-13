@@ -51,7 +51,9 @@
           <small class="text-muted">Last updated 3 mins ago</small>
         </div>
       </b-card>
+    </b-card-group>
 
+    <b-card-group>
       <b-card
         title="Typing Game"
         img-src="https://picsum.photos/300/300/?image=41"
