@@ -28,12 +28,12 @@
       </b-card>
 
       <b-card
-        title="3D-Printing"
+        title="Engine"
         img-src="https://picsum.photos/300/300/?image=41"
         img-alt="Image"
         img-top
       >
-        <b-card-text>This card has supporting text below as a natural lead-in to additional content.</b-card-text>
+        <b-card-text>I 3D-Printed an engine. This is the longest print i've done so far at 24 hours of print time for the engine block alone.</b-card-text>
         <div slot="footer">
           <small class="text-muted">Last updated 3 mins ago</small>
         </div>
