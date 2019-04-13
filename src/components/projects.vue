@@ -3,7 +3,7 @@
     <b-card-group deck>
       <b-card
         title="Gold Rush 5K"
-        img-src="https://firebasestorage.googleapis.com/v0/b/lewishamilton-2aac2.appspot.com/o/gold_rush_logo.PNG?alt=media&token=f88bd6f5-a5fb-415d-b2a8-47b4a5b6b0ae"
+        img-src="https://firebasestorage.googleapis.com/v0/b/lewishamilton-2aac2.appspot.com/o/gold_rush_logo.PNG?alt=media&token=30fe3f6e-b05e-4e71-b11c-e54723b24765"
         img-alt="Image"
         img-top
       >
