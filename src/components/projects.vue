@@ -28,6 +28,19 @@
       </b-card>
 
       <b-card
+        title="Hour Tracking App"
+        img-src="https://picsum.photos/600/300/?image=25"
+        img-alt="Image"
+        img-top
+      >
+        <b-card-text>I am currently working on an app that tracks hours worked. It is primarily for hourly workers but it could be used to track work on anything.</b-card-text>
+        <div slot="footer">
+          <b-button href="#" target="blank" variant="info">Learn More</b-button>
+          <b-button href="#" target="blank" variant="dark">Check it out</b-button>
+        </div>
+      </b-card>
+
+      <b-card
         title="Engine"
         img-src="https://picsum.photos/300/300/?image=41"
         img-alt="Image"
