@@ -9,7 +9,7 @@
       >
         <b-card-text>Website for the 2019 Gold Rush 5K race</b-card-text>
         <div slot="footer">
-          <b-button href="#" variant="info">Learn More</b-button>
+          <b-button to="/gold_rush" variant="info">Learn More</b-button>
           <b-button href="http://www.goldrush5k.com/" target="blank" variant="dark">Check it out</b-button>
         </div>
       </b-card>
@@ -22,7 +22,7 @@
       >
         <b-card-text>Resume website to show off my projects and qualifications</b-card-text>
         <div slot="footer">
-          <b-button href="#" variant="info">Learn More</b-button>
+          <b-button to="/personal" variant="info">Learn More</b-button>
           <b-button href="#" target="blank" variant="dark">Check it out</b-button>
         </div>
       </b-card>
@@ -35,7 +35,7 @@
       >
         <b-card-text>App that tracks hours worked</b-card-text>
         <div slot="footer">
-          <b-button href="#" variant="info">Learn More</b-button>
+          <b-button to="/foresight" variant="info">Learn More</b-button>
           <b-button href="#" target="blank" variant="dark">Check it out</b-button>
         </div>
       </b-card>
@@ -48,7 +48,7 @@
       >
         <b-card-text>3D-Printed V8 engine</b-card-text>
         <div slot="footer">
-          <b-button href="#" variant="info">Learn More</b-button>
+          <b-button to="/engine" variant="info">Learn More</b-button>
         </div>
       </b-card>
     </b-card-group>
@@ -62,7 +62,7 @@
       >
         <b-card-text>Unity game to practice your typing skills</b-card-text>
         <div slot="footer">
-          <b-button href="#" variant="info">Learn More</b-button>
+          <b-button to="/typing" variant="info">Learn More</b-button>
         </div>
       </b-card>
 
@@ -74,7 +74,7 @@
       >
         <b-card-text>Simple JavaScript snake game</b-card-text>
         <div slot="footer">
-          <b-button href="#" variant="info">Learn More</b-button>
+          <b-button to="/snake" variant="info">Learn More</b-button>
         </div>
       </b-card>
 
@@ -86,7 +86,7 @@
       >
         <b-card-text>Getting an old server working again</b-card-text>
         <div slot="footer">
-          <b-button href="#" variant="info">Learn More</b-button>
+          <b-button to="/media_server" variant="info">Learn More</b-button>
         </div>
       </b-card>
 
@@ -98,7 +98,7 @@
       >
         <b-card-text>Fixing a broken monitor</b-card-text>
         <div slot="footer">
-          <b-button href="#" variant="info">Learn More</b-button>
+          <b-button to="/monitor" variant="info">Learn More</b-button>
         </div>
       </b-card>
     </b-card-group>
