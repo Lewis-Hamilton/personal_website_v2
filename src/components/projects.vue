@@ -63,6 +63,7 @@
         <b-card-text>Unity game to practice your typing skills</b-card-text>
         <div slot="footer">
           <b-button to="/typing" variant="info">Learn More</b-button>
+          <b-button href="#" target="blank" variant="dark">Check it out</b-button>
         </div>
       </b-card>
 
