@@ -1,0 +1,65 @@
+[
+  {
+    "title":"Gold Rush 5K",
+    "description":"Website for the 2019 Gold Rush 5K",
+    "image_link":"https://firebasestorage.googleapis.com/v0/b/lewishamilton-2aac2.appspot.com/o/gold_rush_thumbnail.jpg?alt=media&token=2cdfb074-5542-49b9-b165-c3e3327b4e09",
+    "learnMore_link":"/gold_rush",
+    "checkOut_link":"http://www.goldrush5k.com/"
+  },
+
+  {
+    "title":"Personal Website",
+    "description":"Resume website for myself",
+    "image_link":"https://firebasestorage.googleapis.com/v0/b/lewishamilton-2aac2.appspot.com/o/website_thumbnail.jpg?alt=media&token=9c576330-0708-49f8-82d1-c70300a81470",
+    "learnMore_link":"/personal",
+    "checkOut_link":"#"
+  },
+
+  {
+    "title":"Hour Tracking App",
+    "description":"App that tracks hours worked",
+    "image_link":"https://firebasestorage.googleapis.com/v0/b/lewishamilton-2aac2.appspot.com/o/default.PNG?alt=media&token=7c8d87bd-0ba9-4acd-93da-fe4bbb1b992d",
+    "learnMore_link":"/foresight",
+    "checkOut_link":"#"
+  },
+
+  {
+    "title":"Engine",
+    "description":"3D-Printed V8 engine",
+    "image_link":"https://firebasestorage.googleapis.com/v0/b/lewishamilton-2aac2.appspot.com/o/engine_thumbnail.jpg?alt=media&token=636a4bd1-7faa-4ace-8ef9-d9bdcde0608c",
+    "learnMore_link":"/engine",
+    "checkOut_link":""
+  },
+
+  {
+    "title":"Typing Game",
+    "description":"Unity game to practice typing",
+    "image_link":"https://firebasestorage.googleapis.com/v0/b/lewishamilton-2aac2.appspot.com/o/typing_thumbnail.PNG?alt=media&token=0b46fa88-d346-4ee9-bb07-b359ee101879",
+    "learnMore_link":"/typing",
+    "checkOut_link":"#"
+  },
+
+  {
+    "title":"JS Snake",
+    "description":"Simple JavaScript snake game",
+    "image_link":"https://firebasestorage.googleapis.com/v0/b/lewishamilton-2aac2.appspot.com/o/snake_thumbnail.jpg?alt=media&token=6d45b170-6d9f-4c5a-906b-834e2f1bf94c",
+    "learnMore_link":"/snake",
+    "checkOut_link":"#"
+  },
+
+  {
+    "title":"Server",
+    "description":"Getting an old server working",
+    "image_link":"https://firebasestorage.googleapis.com/v0/b/lewishamilton-2aac2.appspot.com/o/server_thumbnail.jpeg?alt=media&token=88b6f93d-1fc2-4da0-8919-e795c7b5f1ef",
+    "learnMore_link":"/media_server",
+    "checkOut_link":"#"
+  },
+
+  {
+    "title":"Monitor",
+    "description":"Fixing a broken monitor",
+    "image_link":"https://firebasestorage.googleapis.com/v0/b/lewishamilton-2aac2.appspot.com/o/monitor_thumbnail.jpg?alt=media&token=72f81fcd-5fa6-48ba-9545-855bba03ba0d",
+    "learnMore_link":"/monitor",
+    "checkOut_link":"#"
+  }
+]
