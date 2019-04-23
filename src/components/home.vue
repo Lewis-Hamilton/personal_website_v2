@@ -19,39 +19,11 @@
       </b-carousel-slide>
 
       <!-- Slides with custom text -->
-      <b-carousel-slide img-src="https://firebasestorage.googleapis.com/v0/b/lewishamilton-2aac2.appspot.com/o/foresight_logo.png?alt=media&token=bf1594d7-7d6b-4cd1-b07b-6361e8383dbe">
-        <h1>Hello world!</h1>
-      </b-carousel-slide>
+      <b-carousel-slide img-src="https://firebasestorage.googleapis.com/v0/b/lewishamilton-2aac2.appspot.com/o/foresight_logo.png?alt=media&token=bf1594d7-7d6b-4cd1-b07b-6361e8383dbe"></b-carousel-slide>
 
       <!-- Slides with image only -->
-      <b-carousel-slide img-src="https://picsum.photos/1024/480/?image=58"></b-carousel-slide>
-
-      <!-- Slides with img slot -->
-      <!-- Note the classes .d-block and .img-fluid to prevent browser default image alignment -->
-      <b-carousel-slide>
-        <img
-          slot="img"
-          class="d-block img-fluid w-100"
-          width="1024"
-          height="480"
-          src="https://picsum.photos/1024/480/?image=55"
-          alt="image slot"
-        >
-      </b-carousel-slide>
-
-      <!-- Slide with blank fluid image to maintain slide aspect ratio -->
-      <b-carousel-slide caption="Blank Image" img-blank img-alt="Blank image">
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eros felis, tincidunt
-          a tincidunt eget, convallis vel est. Ut pellentesque ut lacus vel interdum.
-        </p>
-      </b-carousel-slide>
+      <b-carousel-slide img-src="https://firebasestorage.googleapis.com/v0/b/lewishamilton-2aac2.appspot.com/o/unity.jpg?alt=media&token=69226953-85e0-47a1-b751-5613cb226d7d"></b-carousel-slide>
     </b-carousel>
-
-    <p class="mt-4">
-      Slide #: {{ slide }}<br>
-      Sliding: {{ sliding }}
-    </p>
   </div>
 </template>
 

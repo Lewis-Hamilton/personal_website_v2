@@ -14,7 +14,8 @@ import Engine from './components/engine.vue'
 import Typing from './components/typing.vue'
 import Snake from './components/snake.vue'
 import Media_Server from './components/media_server.vue'
-import Monitor from './components/monitor.vue';
+import Monitor from './components/monitor.vue'
+import Resume from './components/resume.vue';
 
 Vue.config.productionTip = false
 Vue.use(BootstrapVue);
@@ -31,7 +32,8 @@ const routes = [
   {path: "/typing", component: Typing},
   {path: "/snake", component: Snake},
   {path: "/media_server", component: Media_Server},
-  {path: "/monitor", component: Monitor}
+  {path: "/monitor", component: Monitor},
+  {path: "/resume", component: Resume}
 ]
 
 const router = new VueRouter({
