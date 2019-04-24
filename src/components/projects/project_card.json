@@ -12,13 +12,13 @@
     "description":"Resume website for myself",
     "image_link":"https://firebasestorage.googleapis.com/v0/b/lewishamilton-2aac2.appspot.com/o/website_thumbnail.jpg?alt=media&token=9c576330-0708-49f8-82d1-c70300a81470",
     "learnMore_link":"/personal",
-    "checkOut_link":"#"
+    "checkOut_link":"lewishamilton.me"
   },
 
   {
-    "title":"Hour Tracking App",
+    "title":"Foresight",
     "description":"App that tracks hours worked",
-    "image_link":"https://firebasestorage.googleapis.com/v0/b/lewishamilton-2aac2.appspot.com/o/default.PNG?alt=media&token=7c8d87bd-0ba9-4acd-93da-fe4bbb1b992d",
+    "image_link":"https://firebasestorage.googleapis.com/v0/b/lewishamilton-2aac2.appspot.com/o/foresight_thumbnail.png?alt=media&token=7896b59b-67c2-4a19-9c8b-fde1d70b6db9",
     "learnMore_link":"/foresight",
     "checkOut_link":"#"
   },

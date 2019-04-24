@@ -13,7 +13,7 @@
         Website
       </p>
 
-      <b-button variant="primary" target="blank" href="#">Check it out</b-button>
+      <b-button variant="primary" target="blank" href="lewishamilton.me">Check it out</b-button>
     </b-jumbotron>
   </div>
 </template>

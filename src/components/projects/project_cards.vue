@@ -37,6 +37,12 @@
 
 <style>
   .card{
-    
+    display: flex;
+    flex-direction: column;
+    word-wrap: break-word;
+  }
+
+  .btn{
+    margin: 0.25vw;
   }
 </style>

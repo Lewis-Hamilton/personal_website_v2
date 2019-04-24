@@ -4,7 +4,7 @@
       <template slot="header">JS Snake</template>
 
       <template slot="lead">
-        Works great, boring though 
+        Just a simple game to practice JavaScript 
       </template>
 
       <hr class="my-4">
@@ -17,3 +17,7 @@
     </b-jumbotron>
   </div>
 </template>
+
+<script>
+
+</script>
